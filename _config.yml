@@ -1,14 +1,29 @@
+name: Paul Tosch
+favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.443072
+title: Paul Tosch
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.467763
-  lightness: 0.06878464
-  brandStrength: 0.8879389
-  rhythmicContrast: 0.7015743
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-name: Paul Tosch
+  brandStrength: 0.8879389
+  lightness: 0.06878464
+  saturation: 0.467763
+  rhythmicContrast: 0.7015743
+purpose: []
