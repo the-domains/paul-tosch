@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Paul Tosch]]></title>
         <description><![CDATA[Paul Tosch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://paultosch.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 00:31:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 00:53:43 GMT</lastBuildDate>
+        <atom:link href="http://paultosch.com.au/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>When you grow up you tend to get told the world is the way it is and your life is just to live your life inside the world. Try not to bash into the walls too much. Try to have a nice family life, have fun, save a little money.</p>]]></description>
+            <link>http://paultosch.com.au/7a965e68-eb01-4433-b9a0-71410951e08e/index.html</link>
+            <guid isPermaLink="false">7a965e68-eb01-4433-b9a0-71410951e08e</guid>
+            <pubDate>Fri, 04 Mar 2016 00:53:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This website represents a collection of threads that I find inspiring and a few things I have created from that inspiration.</p>]]></description>
-            <link>undefined8f3f536b-0eb3-4f0a-869d-7428bec789c7/index.html</link>
+            <link>http://paultosch.com.au/8f3f536b-0eb3-4f0a-869d-7428bec789c7/index.html</link>
             <guid isPermaLink="false">8f3f536b-0eb3-4f0a-869d-7428bec789c7</guid>
             <pubDate>Fri, 04 Mar 2016 00:30:37 GMT</pubDate>
         </item>
