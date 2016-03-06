@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Iter Project
-datePublished: '2016-03-06T23:42:12.658Z'
-dateModified: '2016-03-06T23:41:32.419Z'
+datePublished: '2016-03-06T23:46:46.970Z'
+dateModified: '2016-03-06T23:46:46.224Z'
 title: Horizon Technology
 author: []
 sourcePath: _posts/2016-03-06-horizon-technology.md
