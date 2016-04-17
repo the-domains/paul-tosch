@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The Stellarator represents a significant push towards commercially viable nuclear fusion \_there is one in development at the Max Plank Institute for Plasma physics. This tech has the potenital to be a real game changer."
-datePublished: '2016-04-17T03:52:01.664Z'
-dateModified: '2016-04-17T03:51:49.907Z'
+datePublished: '2016-04-17T03:53:20.973Z'
+dateModified: '2016-04-17T03:52:11.649Z'
 title: Nuclear Fusion - stellarator
 author: []
 sourcePath: _posts/2016-03-06-nuclear-fusion-stellarator.md
