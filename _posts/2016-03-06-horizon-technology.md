@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The ITER project is a demonstration nuclear fusion generator bringing the same energy that powers the Sun to Earth. \_It has taken 35 countries 35 years to bring this project to Fruition so far. \_The payoff if enormous, with essentially free power. \_Check out the ITER here:"
-datePublished: '2016-04-17T03:50:11.199Z'
-dateModified: '2016-04-17T03:42:36.577Z'
+datePublished: '2016-04-17T03:51:30.995Z'
+dateModified: '2016-04-17T03:50:21.159Z'
 title: Horizon Technology
 author: []
 sourcePath: _posts/2016-03-06-horizon-technology.md
