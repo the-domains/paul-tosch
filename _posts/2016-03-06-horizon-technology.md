@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: Iter Project
-datePublished: '2016-03-06T23:47:01.898Z'
-dateModified: '2016-03-06T23:46:59.478Z'
+description: "The ITER project is a demonstration nuclear fusion generator bringing the same energy that powers the Sun to Earth. \_It has taken 35 countries 35 years to bring this project to Fruition so far. \_The payoff if enormous, with essentially free power. \_Check out the ITER here:"
+datePublished: '2016-04-17T03:50:11.199Z'
+dateModified: '2016-04-17T03:42:36.577Z'
 title: Horizon Technology
 author: []
 sourcePath: _posts/2016-03-06-horizon-technology.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: horizon-technology/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 The ITER project is a demonstration nuclear fusion generator bringing the same energy that powers the Sun to Earth.  It has taken 35 countries 35 years to bring this project to Fruition so far.  The payoff if enormous, with essentially free power.  Check out the ITER here:
