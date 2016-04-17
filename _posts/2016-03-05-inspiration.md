@@ -5,9 +5,11 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-06T23:46:24.681Z'
-dateModified: '2016-03-06T23:23:34.813Z'
+description: |-
+  Stephen
+  Hawking
+datePublished: '2016-04-17T03:37:16.545Z'
+dateModified: '2016-04-17T03:34:42.079Z'
 title: Inspiration
 author: []
 sourcePath: _posts/2016-03-05-inspiration.md
