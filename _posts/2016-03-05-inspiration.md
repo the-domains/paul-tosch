@@ -1,16 +1,17 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: |-
   Stephen
   Hawking
-datePublished: '2016-04-17T03:37:16.545Z'
-dateModified: '2016-04-17T03:34:42.079Z'
-title: Inspiration
+datePublished: '2016-04-17T03:44:27.810Z'
+dateModified: '2016-04-17T03:43:01.149Z'
+title: Stephen Hawking
 author: []
 sourcePath: _posts/2016-03-05-inspiration.md
 published: true
@@ -20,8 +21,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: inspiration/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 [Stephen
