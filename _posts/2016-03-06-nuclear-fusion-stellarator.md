@@ -1,25 +1,25 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.physics.ucla.edu/icnsp/Html/spong/spong.htm'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-06T23:41:52.380Z'
-dateModified: '2016-03-06T23:41:11.401Z'
+description: "The Stellarator represents a significant push towards commercially viable nuclear fusion \_there is one in development at the Max Plank Institute for Plasma physics. This tech has the potenital to be a real game changer."
+datePublished: '2016-04-17T03:51:40.310Z'
+dateModified: '2016-04-17T03:42:10.360Z'
 title: Nuclear Fusion - stellarator
 author: []
+sourcePath: _posts/2016-03-06-nuclear-fusion-stellarator.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-06-nuclear-fusion-stellarator.md
-published: true
-url: nuclear-fusion-stellarator/index.html
-_type: WebPage
+_type: MediaObject
 
 ---
 # Nuclear Fusion - stellarator
