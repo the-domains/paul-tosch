@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Paul Tosch]]></title>
+        <description><![CDATA[Paul Tosch]]></description>
+        <link>http://paultosch.com.au/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Apr 2016 03:52:02 GMT</lastBuildDate>
+        <atom:link href="http://paultosch.com.au/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nuclear Fusion - stellarator]]></title>
+            <description><![CDATA[<article><h1>Nuclear Fusion - stellarator</h1><p>The Stellarator represents a significant push towards commercially viable nuclear fusion  there is one in development at the Max Plank Institute for Plasma physics. This tech has the potenital to be a real game changer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51942ffd991f145af62244a8348458d12e4aae42.jpg"></article>]]></description>
+            <link>http://www.physics.ucla.edu/icnsp/Html/spong/spong.htm</link>
+            <guid isPermaLink="false">1c269018-6acf-4705-922a-7ac5b3d6a351</guid>
+            <pubDate>Sun, 17 Apr 2016 03:52:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
